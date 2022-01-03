@@ -1,0 +1,119 @@
+07/24/19 22:01
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+manual - to follow
+Score += 0
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (5 points):
+list_ops() failed
+	Correct response: "['fox', 'hawk', 'dog', 'bearhunter']"
+	Student response: "['hunter', 'fox', 'fox', 'hawk', 'bear', 'hunter']"
+Score += 0
+
+Problem 6 (5 points):
+Score += 5
+
+Problem 7 (10 points):
+TypeError: '>' not supported between instances of 'int' and 'tuple'
+
+Problem 8 (5 points):
+Score += 5
+
+Code Quality (5 points):
+manual - to follow
+Score += 0
+
+Total score: 25/50 = 50.0%
+
+
+Comments:
+	manual - to follow
+
+-------------------------------------------------------------------------------
+
+07/28/19 02:14
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (5 points):
+list_ops() failed
+	Correct response: "['fox', 'hawk', 'dog', 'bearhunter']"
+	Student response: "['fox', 'fox', 'hawk', 'bearhunterhunter']"
+Score += 0
+
+Problem 6 (5 points):
+Score += 5
+
+Problem 7 (10 points):
+Score += 10
+
+Problem 8 (5 points):
+Score += 5
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 45/50 = 90.0%
+
+Great job!
+
+
+Comments:
+	Great job on the docstrings! You have the best one among the ones I've checked.
+
+-------------------------------------------------------------------------------
+
+=MANUALLY ADJUSTED=
+08/01/19
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (5 points):
+list_ops() failed
+	Correct response: "['fox', 'hawk', 'dog', 'bearhunter']"
+	Student response: "['fox', 'fox', 'hawk', 'bearhunterhunter']"
+
+*adjusted
+Make sure your input list is inside the function. We have awarded partial points for this.
+Score += 3
+
+Problem 6 (5 points):
+Score += 5
+
+Problem 7 (10 points):
+Score += 10
+
+Problem 8 (5 points):
+Score += 5
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 48/50 = 96.0%
+
+Great job!
+
+
+Comments:
+	Great job, Pat!
+-------------------------------------------------------------------------------

@@ -1,0 +1,25 @@
+2019-09-21 20:44:20
+
+Problem 1 (10.0 points):
+Score += 10.0
+Comment: I accepted your answer for 1.2, but the question was asking for the difference of the means.
+
+Problem 2 (10.0 points):
+Score += 10.0
+Comment: It's better to be specific with when the increase happened (or at least keep the language consistent). Largest changes to watching tv and voluneering happened from 2007-2008 and 2016-2017 respectively.
+
+Problem 3 (10.0 points):
+Score += 10.0
+Comment: nan
+
+Problem 4 (10.0 points):
+Score += 10.0
+Comment: nan
+
+Problem 5 (10.0 points):
+Score += 10.0
+Comment: Nice color palette
+
+Total score: 50.0/50.0 = 100.0%
+
+Good job, pbata!

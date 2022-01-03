@@ -1,0 +1,25 @@
+2019-09-21 20:44:20
+
+Problem 1 (10.0 points):
+Score += 10.0
+Comment: nan
+
+Problem 2 (10.0 points):
+Score += 10.0
+Comment: For your first two graphs, you seem to be placing too much information. It is better to prioritize clarity than to lay it all out there.
+
+Problem 3 (10.0 points):
+Score += 10.0
+Comment: When examining individual distributions, regular bar plots will do. Boxplots are more useful for using many different distributions.
+
+Problem 4 (9.0 points):
+Score += 9.0
+Comment: nan
+
+Problem 5 (10.0 points):
+Score += 10.0
+Comment: nan
+
+Total score: 49.0/49.0 = 100.0%
+
+Good job, pbata!

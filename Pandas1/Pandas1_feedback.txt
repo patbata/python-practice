@@ -1,0 +1,25 @@
+2019-09-21 20:44:20
+
+Problem 1 (13.0 points):
+Score += 13.0
+Comment: nan
+
+Problem 2 (12.0 points):
+Score += 10.0
+Comment: For 2.1, all-time highs for each crime was asked in the problem
+
+Problem 3 (6.0 points):
+Score += 6.0
+Comment: nan
+
+Problem 4 (19.0 points):
+Score += 14.0
+Comment: For 4.2, 43833 is correct answer. For this number you should only be using the accidents (sum of sp) data.
+
+For 4.5, mean number of fatalities per accident each year was asked.
+
+For 4.6, months with most fatalities for each year was asked.
+
+Total score: 43.0/50.0 = 86.0%
+
+Good job, pbata!

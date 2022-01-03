@@ -1,0 +1,55 @@
+11/19/19 18:26
+
+Problem 1 (10 points):
+TypeError: cannot unpack non-iterable NoneType object
+
+Problem 2 (10 points):
+TypeError: cannot unpack non-iterable NoneType object
+
+Problem 3 (10 points):
+TypeError: cannot unpack non-iterable NoneType object
+
+Problem 4 (5 points):
+TypeError: Invalid return type 'NoneType'
+
+Problems 5 and 6 (10 points):
+manual - no graph appears here btw
+TypeError: Invalid return type 'NoneType'
+
+Code Quality (5 points):
+Code can be improved for conjugate_gradient()
+Score += 0
+
+Total score: 0/50 = 0.0%
+
+-------------------------------------------------------------------------------
+
+11/25/19 11:47
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (10 points):
+nonlinear_conjugate_gradient() failed for f = xQx/2 - bx where Q is 10x10 (Df(x) != 0)
+	Correct response: [0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+	Student response: [-0.001 -0.004 -0.001 -0.004 -0.001 -0.002 -0.001 -0.004 -0.003 -0.005]
+Score += 6
+
+Problem 4 (5 points):
+Score += 5
+
+Problems 5 and 6 (10 points):
+Score += 10
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 46/50 = 92.0%
+
+Great job!
+
+-------------------------------------------------------------------------------
+

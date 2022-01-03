@@ -1,0 +1,62 @@
+07/24/19 22:30
+
+Problem 1 (10 points):
+manual - to follow
+manual - to follow
+manual - to follow
+Score += 7
+
+Problem 2 (10 points):
+manual - to follow
+manual - to follow
+manual - to follow
+manual - to follow
+Score += 7
+
+Problem 3 (10 points):
+manual - to follow
+manual - to follow
+Score += 5
+
+Problem 4 (15 points):
+Score += 15
+
+Code Quality (5 points):
+manual - to follow
+Score += 0
+
+Total score: 34/50 = 68.0%
+
+
+Comments:
+	manual - to follow
+
+-------------------------------------------------------------------------------
+
+07/29/19 00:49
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (15 points):
+Score += 15
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+
+Comments:
+	Great job, Pat!
+
+-------------------------------------------------------------------------------
+

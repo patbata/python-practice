@@ -1,0 +1,28 @@
+11/11/19 19:46
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+ValueError: setting an array element with a sequence.
+
+Problem 5 (10 points):
+Score += 10
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 40/50 = 80.0%
+
+
+Comments:
+	Great job!
+
+-------------------------------------------------------------------------------
+
